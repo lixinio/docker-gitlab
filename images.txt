@@ -1,0 +1,9 @@
+gitlab-unicorn-ce:v12.0.3
+gitlab-unicorn-ce:v12.0.3
+gitlab-task-runner-ce:v12.0.3
+gitlab-sidekiq-ce:v12.0.3
+gitlab-rails-ce:v12.0.3
+gitlab-monitor:4.0.0
+gitlab-shell:v9.3.0
+gitaly:v1.47.0
+alpine-certificates:20171114-r3
